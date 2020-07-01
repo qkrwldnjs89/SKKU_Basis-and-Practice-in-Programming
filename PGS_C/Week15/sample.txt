@@ -1,0 +1,57 @@
+PMID- 1234556
+TI  - Screening for SARS-CoV-2 infection in pediatric oncology patients during the epidemic peak in Italy.
+DP  - 2020 Jun 15
+asdf- asdfsadf
+AU  - Cesaro S
+AU  - Compagno F
+AU  - Zama D
+JT  - Pediatric blood & cancer
+LA  - eng
+PT  - Letter
+
+PMID- 32539221
+TI  - COVID-19 in a child with severe aplastic anemia.
+DP  - 2020 Jun 15
+AU  - Akcabelen YM
+JT  - Pediatric blood & cancer
+LA  - eng
+PT  - Letter
+
+PMID- 32539199
+TI  - How Paediatric Psycho-oncology is changing during the COVID-19 Epidemic in Italy: New approaches.
+LID - 10.1002/pon.5444 [doi]
+DP  - 2020 Jun 15
+JT  - Psycho-oncology
+AU  - Zucchetti G
+AU  - Bertolotti M
+LA  - eng
+PT  - Journal Article
+
+PMID- 32538647
+OWN - NLM
+STAT- Publisher
+LR  - 20200615
+IS  - 1942-969X (Electronic)
+IS  - 1942-969X (Linking)
+DP  - 2020 Jun 15
+TI  - Heterogeneous mental health consequences of COVID-19: Costs and benefits.
+LID - 10.1037/tra0000894 [doi]
+AB  - In this commentary, I argue that the mental health impact of COVID-19 will show substantial variation across individuals, contexts, and time. Further, one key contributor to this variation will be the proximal and long-term impact of COVID-19 on the social environment. In addition to the mental health costs of the pandemic, it is likely that a subset of people will experience improved social and mental health functioning. (PsycInfo Database Record (c) 2020 APA, all rights reserved).
+FAU - Mancini, Anthony D
+AU  - Mancini AD
+AUID- ORCID: 0000-0001-5589-1523
+AD  - Pace University.
+LA  - eng
+PT  - Journal Article
+DEP - 20200615
+PL  - United States
+TA  - Psychol Trauma
+JT  - Psychological trauma : theory, research, practice and policy
+JID - 101495376
+SB  - IM
+CRDT- 2020/06/16 06:00
+PHST- 2020/06/16 06:00 [entrez]
+AID - 2020-41458-001 [pii]
+AID - 10.1037/tra0000894 [doi]
+PST - aheadofprint
+SO  - Psychol Trauma. 2020 Jun 15. doi: 10.1037/tra0000894.
